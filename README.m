@@ -1,0 +1,2 @@
+# Reservior Design optimization using NSGA-2
+This repository contins the implementation of multi-objective optimization algorithm NSGA-2 in python. NSGA-II algorithm is used to optimize the design of a water tank as shwon below. The design requires that the area of the tank should be minimized and volume to be maximized. This was done as part of course Nature Inspired Computing at IIT-Gandhinagar.
